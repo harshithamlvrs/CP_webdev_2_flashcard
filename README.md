@@ -60,6 +60,7 @@ GIF created with Loom
 ## Notes
 
 Describe any challenges encountered while building the app.
+  It took time to remember the code for writing randomized functions and thinking about how to flip the cards to switch between showing the answer vs showing the question.
 
 ## License
 
